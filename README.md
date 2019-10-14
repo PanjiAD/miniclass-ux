@@ -17,7 +17,7 @@
 **3. UX Design**
 - [Pengenalan UX design](materi/UX-Design/pengenalan-ux-design.md)
 - [Information architecture (IA)](materi/UX-Design/Information-Architecture.md)
-- [Membuat user journey](materi/UX_Design/user-journy.md)
+- [user journey](materi/UX-Design/user-journey.md)
 - Membuat user flow
 - Membuat wireframe
 - Design guideline
